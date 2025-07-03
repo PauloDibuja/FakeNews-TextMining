@@ -1,0 +1,1 @@
+python -m pip install polars scikit-learn numpy python-dotenv
