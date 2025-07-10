@@ -1,0 +1,41 @@
+Pregunta: La noticia 1 es Falsa y esta generada por un humano, ¿Qué tan verídica te pareció esta noticia y por que?. (Manuel Monsalve)
+
+Tema 1: fuente, falsa, confiable, persona, generar
+Tema 2: falsa, información, presidente, candidata, fuentes
+Tema 3: noticias, falsa, ve, veridica, twitter
+Tema 4: noticia, imágenes, persona, forma, palabras
+Tema 5: verídica, pareció, oficial, fuente, personal
+
+
+Pregunta: La noticia 2 es Falsa y esta generada por Inteligencia Artificial, ¿Qué tan verídica te pareció y por qué? (Canguro)
+
+Tema 1: ve, verídica, real, video, aparte
+Tema 2: falsa, real, animal, ia, emocional
+Tema 3: veridica, ia, canguro, real, apoyo
+Tema 4: pareció, canguro, noticia, verídica, vídeo
+Tema 5: nota, real, canguro, demasiado, animales
+
+
+Pregunta: La noticia 3 es Verdadera y generada por un humano, ¿Qué tan verídica te pareció y por qué? (Bitcoin)
+
+Tema 1: bitcoin, oro, verídica, completa, mas
+Tema 2: parecio, veridica, seria, publicado, tema
+Tema 3: verídica, pareció, noticia, tema, real
+Tema 4: real, gente, medio, imagen, verídico
+Tema 5: fuente, fecha, publicación, autor, verídica
+
+Pregunta: La noticia 4 es Verdadera y esta generada por un humano, ¿Qué tan verídica te pareció y por qué? (Studio Ghibli)
+
+Tema 1: veridica, noticia, ia, tema, ghibli
+Tema 2: verídica, noticia, fuentes, muestra, escrita
+Tema 3: pareció, verídica, información, real, forma
+Tema 4: real, fecha, noticia, texto, mas
+Tema 5: falsa, fuente, redacción, autor, pensé
+
+Pregunta: La noticia 5 es Falsa y esta generada por Inteligencia Artificial, ¿Qué tan verídica te pareció y por qué? (Tweet Homofóbico hecho con IA)
+
+Tema 1: falsa, ia, ve, humano, identificar
+Tema 2: falsa, veridica, imagen, twitter, falso
+Tema 3: verídica, usuario, creí, pensaba, publicación
+Tema 4: noticia, opinión, información, ve, verídica
+Tema 5: opinión, persona, falsa, odio, pareció
